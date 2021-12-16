@@ -1,0 +1,15 @@
+Package: zsh
+Architecture: aarch64
+Installed-Size: 9152
+Maintainer: @termux
+Version: 5.8-11
+Homepage: https://www.zsh.org
+Depends: libandroid-support, libcap, ncurses, termux-tools, command-not-found, pcre
+Description: Shell with lots of features
+Filename: dists/termux/extras/binary-aarch64/zsh_5.8-11_aarch64.deb
+Size: 1938608
+MD5Sum: 29b6b466c0416b894a763adb868b50f7
+SHA1: 0c248bda9aaeaca7ba6035702f23ff716810d61a
+SHA256: 4fd62169ef3e8a08d37606baf80344f57c670495b3c0bb9007d01bb109c4fc2d
+SHA512: 9079d8c0fd051fa12c32a97388c405532704a3a340de247d84ca8571904db03e7feae4798e34733ee182f846a296c243d8fdffe1612fe78ed6dd2eaa29db6dec
+

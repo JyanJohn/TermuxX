@@ -1,0 +1,29 @@
+Package: apktool
+Version: 2.3.4
+Architecture: all
+Homepages: http://penyon.info
+Description: Android everse engineering 
+Maintainer: @Lexiie
+Filename: dists/termux/extras/binary-all/apktool_2.3.4_aarch64.deb
+Size: 11398220
+MD5Sum: 1e8ecc417e0d3bbb34e88b552c0645a4
+SHA1: c3edeeb1b73d6d4c555af1672dc10d1a4482aa07
+SHA256: 08428aeadb2eac30eebde05774154bd08fc9be2a74e94fa36ace91a3d3d40d41
+SHA512: 2d0e8f7382b6cf18286aec8a33a9f98f169df284b58940def62f1d803cb56b318472a83f742ff8fd9fd81ab540f574c0bdcacea30c0d664c10f35077b0f57030
+
+Package: sqlmap
+Version: 1.2.4-1
+Installed-Size: 11908
+Maintainer: manymous <many.mous.hacking@gmail.com>
+Source: https://github.com/manymous/
+Homepage: https://github.com/manymous/
+Architecture: all
+Priority: optional
+Description: Sqlmap edited by manymous for Termux
+Filename: dists/termux/extras/binary-all/sqlmap_1.2.4-1_aarch64.deb
+Size: 6800746
+MD5Sum: 13b22ead9e9efc8fa94313d92147e597
+SHA1: 1e788d9d079620a6a93d16688881678743153551
+SHA256: 01389262aab9dafbb18d14c433dcbd9afcc782f73fe5806fe01e03cb25f642f0
+SHA512: fe160f050906d130cbd218a5678b45f112d6b0f1bb6c474ef12494b298f8029e9ac413c4be8fb48e1bb49079e8069bcb46d58875c847e909d321b5697c542b96
+
