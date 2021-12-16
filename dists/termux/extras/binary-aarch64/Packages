@@ -1,15 +1,17 @@
-Package: zsh
+Package: radare2
 Architecture: aarch64
-Installed-Size: 9152
+Installed-Size: 45608
 Maintainer: @termux
-Version: 5.8-11
-Homepage: https://www.zsh.org
-Depends: libandroid-support, libcap, ncurses, termux-tools, command-not-found, pcre
-Description: Shell with lots of features
-Filename: dists/termux/extras/binary-aarch64/zsh_5.8-11_aarch64.deb
-Size: 1938608
-MD5Sum: 29b6b466c0416b894a763adb868b50f7
-SHA1: 0c248bda9aaeaca7ba6035702f23ff716810d61a
-SHA256: 4fd62169ef3e8a08d37606baf80344f57c670495b3c0bb9007d01bb109c4fc2d
-SHA512: 9079d8c0fd051fa12c32a97388c405532704a3a340de247d84ca8571904db03e7feae4798e34733ee182f846a296c243d8fdffe1612fe78ed6dd2eaa29db6dec
+Version: 5.5.4
+Homepage: https://rada.re
+Breaks: radare2-dev
+Depends: libuv
+Replaces: radare2-dev
+Description: Advanced Hexadecimal Editor
+Filename: dists/termux/extras/binary-aarch64/radare2_5.5.4_aarch64.deb
+Size: 7304356
+MD5Sum: bfd4357655d71e39cf3f398a507287eb
+SHA1: 4c788918aeeadb98fa5053969866f42e1142ab97
+SHA256: 6dd19c9a104c97a9df924601dc4b89fe3baa1d63b0550f959c13022552536f38
+SHA512: 713402cb4872ca8ed7d01dd11db30c93c7388e095270b78f4b7e32647569b518a7562210251490649af73b1287e5478fd7cc0a65e79819922c211ac44820df61
 
