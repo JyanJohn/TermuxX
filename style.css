@@ -1,0 +1,36 @@
+body {
+    font-family: "Roboto", "Droid Sans";
+    width: 100%;
+    min-width: 310px;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
+   
+.termuxx {
+	margin: 50px 30px 0px 30px;
+    text-align: center;
+}
+    
+.termuxx h1 {
+    font-size: 33px;
+    color: #444;
+}
+    
+.termuxx p {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 15px;
+    color: #868686;
+}
+    
+.txt{margin: 30px 25px 0;}
+.line{border-bottom: solid 1px rgba(0,0,0,.05);}
+.txt .txt-p {
+	padding: 10px 0;
+    font-size: 14px;
+    color: #666;   
+    display: block;
+    width: 100%;
+    max-width: 520px;
+}
